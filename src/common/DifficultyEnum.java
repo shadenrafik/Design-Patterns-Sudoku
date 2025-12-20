@@ -1,5 +1,5 @@
 package common;
 
-public class DifficultyEnum {
-    
+public enum DifficultyEnum {
+    EASY, MEDIUM, HARD
 }
