@@ -1,5 +1,9 @@
 package GUI.model;
 
-public class UserAction {
-    
+public enum UserAction {
+    SOLVE,
+    UNDO,
+    VERIFY,
+    ENTER_VALUE,
+    RESUME
 }
